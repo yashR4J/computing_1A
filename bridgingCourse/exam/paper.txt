@@ -1,0 +1,10 @@
+Hi everyone,
+
+Very simple instructions
+
+Step 1) In list.c, complete as many of the undefined functions as you can (the specification for those functions can be found in list.h)
+
+Step 2) In list_main.c, write tests for what you've completed through use of asserts. You may use print statements to debug, but print statements aren't testing
+
+Step 3) Submit your work on the CSE machines with "give cs1911 bridging"
+
